@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gestion Inventaire</string>
+
+    <string-array name="category_array">
+        <item>Choisiez</item>
+        <item>DDR2</item>
+        <item>DDR3</item>
+        <item>DDR4</item>
+    </string-array>
+</resources>
